@@ -1,0 +1,52 @@
+#title, #headline{
+    color:darkorange;
+    font-family:Arial, Helvetica, sans-serif
+}
+#title{
+    text-align:center;
+    margin-top: 10px;
+}
+#main{
+    background-color: rgb(188, 255, 255);
+}
+#image:hover{
+    width: 28%;
+}
+#img-caption{
+    font-size: 20px;
+    font-style: italic;
+
+}
+ol{
+    font-size: 20px;
+}
+
+#title:hover{
+    color: black;
+    font-size: 33px;
+}
+#headline:hover{
+    color: black;
+    font-size: 24.5px;
+}
+
+#tribute-link{
+    background-color:rgb(236, 206, 169);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 800px;
+}
+#image{
+    width: relative;
+    border-radius: 100%;
+
+}
+
+#tribute-link:hover{
+    color: blue;
+}
+#paragraph{
+    font-size: large;
+    
+}
