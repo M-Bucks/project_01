@@ -1,5 +1,5 @@
 #title, #headline{
-    color:darkorange;
+    color:rgb(0, 0, 0);
     font-family:Arial, Helvetica, sans-serif
 }
 #title{
@@ -20,11 +20,11 @@ ol{
 }
 
 #title:hover{
-    color: black;
+    color: #1f06ff;
     font-size: 33px;
 }
 #headline:hover{
-    color: black;
+    color: rgb(26, 9, 255);
     font-size: 24.5px;
 }
 
